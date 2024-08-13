@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... you can't sorry
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ... github-roaster try
+- ⚡ Fun fact: ...
 
 <!---
 ilikehecking68/ilikehecking68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
