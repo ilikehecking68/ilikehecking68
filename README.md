@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C and Lua
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... you can't sorry
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
